@@ -1,5 +1,5 @@
 # Agent
-This is JAVAQ Application which can :
+This is JAVA Application which can :
 - collect operation system Logs : Security , Application ,...
 - parse Logs structure
 - split very large file of logs into configured chunk file ( time frame in minutes)
